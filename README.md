@@ -49,3 +49,13 @@ Customization: You can modify the dataset or experiment with different models fo
 
 Conclusion
 This project demonstrates the application of NLP techniques to classify text data and build a machine learning model for sentiment analysis. It's a great starting point for anyone looking to dive into text-based classification tasks.
+
+Results-
+<img width="603" alt="Screenshot 2024-11-07 at 5 25 17 PM" src="https://github.com/user-attachments/assets/e561946a-f94d-4980-925f-c923ded85398">
+<img width="780" alt="Screenshot 2024-11-07 at 5 25 38 PM" src="https://github.com/user-attachments/assets/890e7325-edc0-41d7-8fad-2d6f963ecff6">
+<img width="474" alt="Screenshot 2024-11-07 at 5 32 10 PM" src="https://github.com/user-attachments/assets/42195f9e-ce5b-49dd-83c5-ca8c76d2ae6d">
+<img width="487" alt="Screenshot 2024-11-07 at 5 32 32 PM" src="https://github.com/user-attachments/assets/f9d9f6d7-5dbc-4a2a-aebc-75d50edbe26d">
+<img width="450" alt="Screenshot 2024-11-07 at 5 32 49 PM" src="https://github.com/user-attachments/assets/b4946658-20b0-4af0-ab1c-362112ac5fb9">
+<img width="866" alt="Screenshot 2024-11-07 at 5 33 22 PM" src="https://github.com/user-attachments/assets/3b9cc048-a544-49d3-92b5-07579d978b57">
+
+
