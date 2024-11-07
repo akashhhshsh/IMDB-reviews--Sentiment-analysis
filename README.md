@@ -35,9 +35,7 @@ label_encoder.pkl: The saved Label Encoder.
 
 
 How to Use
-Install Dependencies: Install the necessary libraries using pip:
-pip install -r requirements.txt
-
+Install Dependencies: Install the necessary libraries using pip
 
 Training the Model: Run the imdb.py script to preprocess the data, train the model, and save the model.
 python imdb.py
